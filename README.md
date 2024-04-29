@@ -1,12 +1,12 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
-CID_423_Athena_Commando_F_Painter, 1500
-EID_BasketballV2, 500
+CID_066_Athena_Commando_F_SkiGirl_GER, 1500
+CID_064_Athena_Commando_F_SkiGirl_GBR, 1500
+EID_Zippy, 500
 na
 na
 na
-CID_586_Athena_Commando_F_PunkDevil, 1200
-Pickaxe_ID_138_Gnome, 800
-CID_170_Athena_Commando_F_Luchador, 1200
-Glider_ID_110_TeriyakiFish, 800
-Wrap_182_NeonAnimal, 500
-EID_TaiChi, 500
+CID_214_Athena_Commando_F_FootballReferee, 800
+Pickaxe_ID_179_StarWand, 800
+CID_039_Athena_Commando_F_Disco, 1500
+Umbrella_PaperParasol, 300
+Pickaxe_ID_328_GalileoRocket_SNC0L, 500
+EID_Grooving, 500
